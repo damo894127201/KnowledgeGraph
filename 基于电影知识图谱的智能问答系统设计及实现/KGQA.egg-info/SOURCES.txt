@@ -1,0 +1,17 @@
+setup.py
+KGQA.egg-info/PKG-INFO
+KGQA.egg-info/SOURCES.txt
+KGQA.egg-info/dependency_links.txt
+KGQA.egg-info/top_level.txt
+src/AutomaticSpeak.py
+src/ClassifierModel.py
+src/ConnectNeo4jSearch.py
+src/FormatReply.py
+src/ImportDataToNeo4j.py
+src/MatchCypher.py
+src/MyExceptionError.py
+src/NamedEntityRecognition.py
+src/RewriteCypher.py
+src/RuleMatch.py
+src/TrainClassifier.py
+src/__init__.py
